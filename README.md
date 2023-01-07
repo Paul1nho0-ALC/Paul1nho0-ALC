@@ -1,7 +1,7 @@
 ### Opa meu nome é Paulo Alcântara!
 
 - ⭐️ Trabalho com Front-End
-- 💫 Estudando React e PHP
+- 💫 Estudando SQL e PHP
 
 <div>
   <a href="https://github.com/Paul1nho0-ALC"></a>
