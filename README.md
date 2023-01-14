@@ -1,6 +1,6 @@
 ### Opa meu nome é Paulo Alcântara!
 
-- ⭐️ Trabalho com Front-End
+- ⭐️ Trabalho com Front-End, mas estou me interessando pelo Back-end
 - 💫 Estudando SQL e PHP
 
 <div>
