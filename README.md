@@ -1,7 +1,7 @@
 ### Opa meu nome é Paulo Alcântara!
 
-- ⭐️ Trabalho com Front-End, mas estou me interessando pelo Back-end
-- 💫 Estudando SQL e PHP
+- ⭐️ Trabalho com React em NextJS e Typescript,
+- 💫 Estudando NextJs
 
 <div>
   <a href="https://github.com/Paul1nho0-ALC"></a>
@@ -14,6 +14,6 @@
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Paulo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Paulo-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Paulo-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Paulo-mysql" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)">
 </div>
