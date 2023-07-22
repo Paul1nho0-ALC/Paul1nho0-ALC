@@ -1,6 +1,6 @@
 ### Opa meu nome é Paulo Alcântara!
 
-- ⭐️ Trabalho com React em NextJS e Typescript,
+- ⭐️ Trabalho com React em NextJS/Vite e Typescript,
 - 💫 Estudando NextJs e Express
 
 <div>
