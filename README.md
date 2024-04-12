@@ -1,7 +1,7 @@
 ### Opa meu nome é Paulo Alcântara!
 
 - ⭐️ Trabalho com React em NextJS/Vite e Typescript,
-- 💫 Estudando NextJs e Express
+- 💫 Estudando Fastify
 
 <div>
   <a href="https://github.com/Paul1nho0-ALC"></a>
